@@ -13,7 +13,8 @@ do đó hiệu suất của những chương trình bạn đang chạy sẽ khô
 làm cho Rust có ý nghĩa ở một số trường hợp cụ thế: chương trình với khả năng dự đoán trước và
 sự yêu cầu về thời gian, nhúng vào trong một số ngôn ngữ khác, 
 và viết code ở low-level cho drivers hoặc hệ điều hành (Operate system). 
-Rust cũng rất tuyệt vời cho những ứng dụng web: Rust hỗ trợ một hệ sinh thái các packages - [crates.io]. Chúng tôi rất vui khi bạn đóng góp những packages của mình vào đây.
+Rust cũng rất tuyệt vời cho những ứng dụng web: Rust hỗ trợ một hệ sinh thái các packages - [crates.io]. 
+Chúng tôi rất vui khi bạn đóng góp những packages của mình vào đây.
 
 [crates.io]: https://crates.io/
 
