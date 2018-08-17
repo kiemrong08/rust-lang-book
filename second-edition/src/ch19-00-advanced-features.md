@@ -1,12 +1,6 @@
-# Advanced Features
+# Các tính năng nâng cao
 
-We've come a long way! By now, we've learned 99% of the things you'll need to
-know when writing Rust. Before we do one more project in Chapter 20, let's talk
-about a few things that you may run into that last 1% of the time. Feel free to
-skip this chapter and come back to it once you run into these things in the
-wild; the features we'll learn to use here are useful in very specific
-situations. We don't want to leave these features out, but you won't find
-yourself reaching for them often.
+Chúng ta đã đi được quãng đường dài. Giờ đây, chúng ta đã học được rằng 99% các thứ chúng ta cần để biết khi viết Rust. Trước khi chúng ta làm một project nữa trong Chapter 20, hãy nói về một vài điều mà bạn có thể bắt gặp trong 1% thời gian. Hãy tự do bỏ qua chương này và trở lại nó một khi bạn gặp các điều đó trong cuộc đời, các tính năng chúng ta sẽ học để sử dụng ở đây là hữu dụng trong các tính huống rất cụ thể. Chúng ta không muốn để các tính năng này ra ngoài, nhưng bạn không thể tìm thấy cho mình cách bắt gặp chúng thường xuyên.
 
 In this chapter, we're going to cover:
 
