@@ -8,16 +8,15 @@ trong cuộc đời, các tính năng chúng ta sẽ học để sử dụng ở
 các tính huống rất cụ thể. Chúng ta không muốn để các tính năng này ra ngoài,
 nhưng bạn không thể tìm thấy cho mình cách bắt gặp chúng thường xuyên.
 
-In this chapter, we're going to cover:
+Trong chương này, chúng ta sẽ bao gồm các kiến thức sau:
 
-* Unsafe Rust: for when you need to opt out of some of Rust's guarantees and
-  tell the compiler that you will be responsible for upholding the guarantees
-  instead
-* Advanced Lifetimes: Additional lifetime syntax for complex situations
-* Advanced Traits: Associated Types, default type parameters, fully qualified
-  syntax, supertraits, and the newtype pattern in relation to traits
-* Advanced Types: some more about the newtype pattern, type aliases, the
-  "never" type, and dynamically sized types
-* Advanced Functions and Closures: function pointers and returning closures
+* Unsafe Rust: dùng khi bạn cần phải opt out một vài sự bảo vệ của Rust và nói
+  cho compiler là bạn sẽ chịu trách nhiệm cho việc thay đổi các các bảo vệ đó.
+* Advanced Lifetimes: Các cấu trúc lifetime bổ sung cho các tình huống phức tạp
+* Advanced Traits: Các kiểu liên đới, các kiểu tham số mặc định, cú pháp đầy đủ,
+  supertraits, và mẫu newtype liên quan tới traits
+* Các kiểu nâng cao: nói thêm về mẫu newtype, type aliases, "never" type, và các
+  kiểu kích cỡ động.
+* Các hàm nâng cao và Closures: các con trỏ hàm và returning closures
 
-It's a panoply of Rust features with something for everyone! Let's dive in!
+Nó là một bộ đầy đủ các tính năng của Rust với một vài thứ cho bất cứ ai! Giờ hãy đi sâu vào nó!
