@@ -19,4 +19,5 @@ Trong chương này, chúng ta sẽ bao gồm các kiến thức sau:
   kiểu kích cỡ động.
 * Các hàm nâng cao và Closures: các con trỏ hàm và returning closures
 
-Nó là một bộ đầy đủ các tính năng của Rust với một vài thứ cho bất cứ ai! Giờ hãy đi sâu vào nó!
+Nó là một bộ đầy đủ các tính năng của Rust với một vài thứ cho bất cứ ai! Giờ
+hãy đi sâu vào nó!
